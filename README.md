@@ -43,10 +43,10 @@
   <a href="mailto:dixitjj13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-E34F26?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/dixitjain108/" target="_blank">
+  <a href="https://www.linkedin.com/in/thedixitjain/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/dxtjain" target="_blank">
+  <a href="https://github.com/thedixitjain" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
@@ -237,7 +237,7 @@
 
 <!-- Professional streak stats with GitHub-native colors -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dxtjain&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=thedixitjain&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <br>
@@ -247,7 +247,7 @@
   <h3>📈 Development Activity</h3>
   
   <!-- Enhanced activity graph with professional styling -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxtjain&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb15&custom_title=Development%20Activity%20Timeline&height=300&radius=8&days=90" alt="Development Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedixitjain&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb15&custom_title=Development%20Activity%20Timeline&height=300&radius=8&days=90" alt="Development Activity Graph"/>
 </div>
 
 <br>
@@ -320,7 +320,7 @@
 
 <div align="center">
   <!-- Alternative trophy display -->
-  <img src="https://github-trophies.vercel.app/?username=dxtjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=thedixitjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
 </div>
 
 <br>
