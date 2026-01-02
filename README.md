@@ -184,8 +184,6 @@
 ---
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -205,8 +203,6 @@
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
 ## 🏆 Key Achievements
 
 <div align="center">
@@ -217,8 +213,6 @@
 | Model quantization, distillation & KV cache optimization | Efficient chunking & embedding compression | Hybrid retrieval with re-ranking pipelines | Enterprise microservices at 100K+ requests |
 
 </div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/> 📊 GitHub Analytics
 
 <!-- Professional streak stats with GitHub-native colors -->
 <div align="center">
