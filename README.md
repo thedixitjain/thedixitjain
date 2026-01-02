@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;LLM+Architect;RAG+Systems+Expert;GenAI+Specialist;Agentic+AI+Developer" alt="Typing SVG" />
   
   <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=idixitjain&label=Profile%20views&color=4c3c78&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=thedixitjain&label=Profile%20views&color=4c3c78&style=flat" alt="Profile Views" />
   </p>
 </div>
 
@@ -39,6 +39,8 @@
   </table>
 </div>
 
+---
+
 ## 🎯 Currently Available For
 
 <div align="center">
@@ -47,6 +49,8 @@
   <img src="https://img.shields.io/badge/Research_Collaborations-Interested-FF9800?style=flat&logo=microscope&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_Source-Contributor-7c3aed?style=flat&logo=opensourceinitiative&logoColor=white"/>
 </div>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -65,12 +69,14 @@
   </a>
 </div>
 
+---
+
 ## 🏅 Certifications
 
 <div align="center">
   <img src="https://img.shields.io/badge/Deep_Learning_Specialization-Coursera-0056D2?style=flat&logo=coursera&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Data_Analytics-Professional_Certificate-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_DP--100-Prep-Azure_Data_Scientist-0078D4?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_DP--100_Prep-Azure_Data_Scientist-0078D4?style=flat&logo=microsoft&logoColor=white"/>
 </div>
 
 ---
@@ -80,7 +86,9 @@
 ### 🤖 AI, ML & GenAI
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C8D73?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat&logo=llama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-6E6DEF?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=flat&logo=anthropic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -95,10 +103,16 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat&logo=robot&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat&logo=robot&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-5C2D91?style=flat&logo=python&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-58A6FF?style=flat&logo=openai&logoColor=white)
 ![Model Fine-tuning](https://img.shields.io/badge/Fine--tuning_&_RLHF-FF6B6B?style=flat&logo=pytorch&logoColor=white)
 ![AI Safety](https://img.shields.io/badge/AI_Safety_&_Alignment-4CAF50?style=flat&logo=shield&logoColor=white)
 ![Multi-Modal AI](https://img.shields.io/badge/Multi--Modal_AI-FFA500?style=flat&logo=openai&logoColor=black)
+![Modal](https://img.shields.io/badge/Modal-00D26A?style=flat&logo=modal&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-000000?style=flat&logo=replicate&logoColor=white)
 
 **Vector Databases:**
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
@@ -153,6 +167,7 @@
 **Cloud Platforms:**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=flat&logo=digitalOcean&logoColor=white)
 
@@ -183,7 +198,6 @@
 
 ---
 
-<p align="center">
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -203,6 +217,8 @@
 
 </div>
 
+---
+
 ## 🏆 Key Achievements
 
 <div align="center">
@@ -213,6 +229,10 @@
 | Model quantization, distillation & KV cache optimization | Efficient chunking & embedding compression | Hybrid retrieval with re-ranking pipelines | Enterprise microservices at 100K+ requests |
 
 </div>
+
+---
+
+## 📊 GitHub Stats
 
 <!-- Professional streak stats with GitHub-native colors -->
 <div align="center">
@@ -226,7 +246,8 @@
 </div>
 
 ---
-## 🏆 GitHub Achievements
+
+## 🏅 Achievements
 
 <div align="center">
   <!-- Alternative trophy display -->
