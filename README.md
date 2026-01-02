@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;LLM+Architect;RAG+Systems+Expert;GenAI+Specialist;Agentic+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;LLM+Architect;RAG+Systems+Expert;GenAI+Specialist;Full+Stack+Developer" alt="Typing SVG" />
   
   <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=thedixitjain&label=Profile%20views&color=4c3c78&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=idixitjain&label=Profile%20views&color=4c3c78&style=flat" alt="Profile Views" />
   </p>
 </div>
 
@@ -19,17 +19,14 @@
     <tr>
       <td width="60%" valign="top">
         <p align="left">
-          AI Engineer focused on shipping LLM-powered products that actually work in production. I've optimized inference pipelines to cut costs by 60%, built RAG systems hitting 95% accuracy, and designed agentic workflows that scale.
+          I'm passionate about merging creativity with cutting-edge AI to build systems that matter. Whether it's reasoning-augmented agents, scalable retrieval systems, or production-grade ML infrastructure — I build to solve.
         </p>
-        <p align="left">
-          <b>What gets me excited:</b> Taking a messy real-world problem, architecting an AI solution, and watching it handle edge cases I didn't even anticipate.
-        </p>
-        <h3>🎯 Core Focus</h3>
         <ul align="left">
-          <li>🧠 <b>LLMs & RAG</b> — Fine-tuning, prompt engineering, retrieval optimization</li>
-          <li>🤖 <b>Agentic AI</b> — Multi-agent systems, tool-use, autonomous workflows</li>
-          <li>⚡ <b>Production ML</b> — Low-latency inference, cost-efficient scaling, MLOps</li>
-          <li>🔧 <b>Full Stack</b> — End-to-end delivery from model to user interface</li>
+          <div align="left"> <h3>🎯 What I Do</h3> <ul>
+          <li>🧠 I specialize in <b>LLMs, RAG Systems, and Agentic AI Workflows</b></li>
+          <li>🛠️ I build <b>real-time AI pipelines</b> and <b>LLM-based applications</b> from prototype to production</li>
+          <li>📈 I care deeply about performance, cost optimization, and human-centric AI design</li>
+          <li>🌍 Always looking to apply AI towards impactful domains like <b>health, education, and sustainability</b></li>
         </ul>
       </td>
       <td width="40%" align="center">
@@ -39,21 +36,10 @@
   </table>
 </div>
 
-## 🎯 Currently Available For
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Full--time_AI/ML_Roles-Open-4CAF50?style=flat&logo=briefcase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Contract_Work-Available-58A6FF?style=flat&logo=handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Research_Collaborations-Interested-FF9800?style=flat&logo=microscope&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-7c3aed?style=flat&logo=opensourceinitiative&logoColor=white"/>
-</div>
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.thedixitjain.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
   <a href="mailto:dixitjj13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-E34F26?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -63,218 +49,150 @@
   <a href="https://github.com/thedixitjain" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  
 </div>
 
-## 🏅 Certifications
+## 🧠 My Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Deep_Learning_Specialization-Coursera-0056D2?style=flat&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Data_Analytics-Professional_Certificate-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_DP--100-Azure_Data_Scientist-0078D4?style=flat&logo=microsoft&logoColor=white"/>
-</div>
-
----
-
-## 🧠 Tech Stack
-
-### 🤖 AI, ML & GenAI
-
-![LangChain](https://img.shields.io/badge/LangChain-1C8D73?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-6E6DEF?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
-![LLaMA Models](https://img.shields.io/badge/LLaMA_Models-7B61FF?style=flat&logo=meta&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF4F8B?style=flat&logo=groq&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-E37222?style=flat&logo=huggingface&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-7531FF?style=flat&logo=data&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-AC5EE3?style=flat&logo=meta&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat&logo=robot&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-58A6FF?style=flat&logo=openai&logoColor=white)
-![Model Fine-tuning](https://img.shields.io/badge/Fine--tuning_&_RLHF-FF6B6B?style=flat&logo=pytorch&logoColor=white)
-![AI Safety](https://img.shields.io/badge/AI_Safety_&_Alignment-4CAF50?style=flat&logo=shield&logoColor=white)
-![Multi-Modal AI](https://img.shields.io/badge/Multi--Modal_AI-FFA500?style=flat&logo=openai&logoColor=black)
-
-**Vector Databases:**
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00D1A0?style=flat&logo=weaviate&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat&logo=qdrant&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logo=databricks&logoColor=white)
-
-**Data Science:**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-
----
-
-### 💻 Development Stack
-
-**Languages:**
+### 💻 Programming Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-
-**Backend:**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 ---
 
-### ☁️ Cloud, DevOps & MLOps
+### 🤖 AI & Machine Learning  
+![LangChain](https://img.shields.io/badge/LangChain-1C8D73?style=flat&logo=langchain&logoColor=white)
+![LLaMA Models](https://img.shields.io/badge/LLaMA%20Models-7B61FF?style=flat&logo=llama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-6E6DEF?style=flat&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF4F8B?style=flat&logo=groq&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-E37222?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-7531FF?style=flat&logo=data&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-AC5EE3?style=flat&logo=faiss&logoColor=white)
 
-**Cloud Platforms:**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=flat&logo=digitalOcean&logoColor=white)
+---
 
-**DevOps & CI/CD:**
+### 🛠 Dev Tools & Cloud Platforms  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat&logo=jenkins&logoColor=white)
-
-**MLOps:**
-![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
-
-**Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
-
-### 🔬 Currently Exploring
-
-![Real-time Embeddings](https://img.shields.io/badge/Real--time_Embedding_Pipelines-4E5EE4?style=flat&logo=processingfoundation&logoColor=white)
+### 🧠 Bonus: What I'm Learning & Experimenting With
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat&logo=ai&logoColor=white)
+![Real-time Embedding Pipelines](https://img.shields.io/badge/Real--time_Embedding-4E5EE4?style=flat&logo=processingfoundation&logoColor=white)
+![Multi-Modal ML](https://img.shields.io/badge/Multi--Modal_AI-FFA500?style=flat&logo=openai&logoColor=black)
 ![Self-hosted LLMs](https://img.shields.io/badge/Self--hosted_LLMs-7B68EE?style=flat&logo=ubuntu&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat&logo=streamlit&logoColor=white)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-000000?style=flat&logo=openai&logoColor=white)
 
----
 
+<!-- Animated bottom divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
+
 ## 🎯 Featured Projects
 
+<!-- Project cards with hover effect -->
 <div align="center">
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://wellnix.vercel.app/">
-        <img src="https://img.shields.io/badge/🏥_Wellnix-AI--powered_Health_&_Wellness-4CAF50?style=for-the-badge&labelColor=black" alt="Wellnix"/>
+      <a href="#muscleai">
+        <img src="https://img.shields.io/badge/🏋️_MuscleAI-AI--powered_fitness_assistant-4CAF50?style=for-the-badge&labelColor=black" alt="MuscleAI"/>
       </a>
       <br><br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" width="70px" alt="Health"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Lifting%20Weights.png" width="70px" alt="Fitness"/>
       <br><br>
       <div>
-        <img src="https://img.shields.io/badge/LLM-00FFFF?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square&labelColor=black"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20px"> <b>87%</b> accuracy in posture detection</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20px"> <b>40%</b> reduction in injury risk</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20px"> <b>35%</b> increase in engagement</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=black"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="#resumatch">
+        <img src="https://img.shields.io/badge/📄_ResuMatch_AI-LLM--powered_resume--job_matcher-FF9900?style=for-the-badge&labelColor=black" alt="ResuMatch AI"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="70px" alt="Resume"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square&labelColor=black"/>
         <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Health_AI-4CAF50?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square&labelColor=black"/>
       </div>
       <br>
       <ul align="left">
-        <li>🏥 AI-powered health & wellness platform</li>
-        <li>🧠 Personalized health recommendations</li>
-        <li>📊 Intelligent symptom analysis</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="20px"> <b>92%</b> skill-job match relevance</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20px"> <b>Sub-200ms</b> query response</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20px"> <b>65%</b> hiring efficiency boost</li>
       </ul>
-      <div>
-        <a href="https://wellnix.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/thedixitjain/Wellnix"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
-      </div>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=black"/>
     </td>
     <td align="center" width="33%">
-      <a href="https://maidease-thedixitjain.vercel.app/">
-        <img src="https://img.shields.io/badge/🏠_MaidEase-Smart_Home_Services_Platform-FF9900?style=for-the-badge&labelColor=black" alt="MaidEase"/>
+      <a href="https://github.com/dxtjain/StockSense-Analyzer">
+        <img src="https://img.shields.io/badge/📊_StockSense_Analyzer-AI--powered_stock_market_analysis-4DA6FF?style=for-the-badge&labelColor=black" alt="StockSense Analyzer"/>
       </a>
       <br><br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" width="70px" alt="Home"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="70px" alt="Stocks"/>
       <br><br>
       <div>
-        <img src="https://img.shields.io/badge/Full_Stack-FF9900?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/AI_Matching-7952B3?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Automation-4B32C3?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/LangChain-4DA6FF?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Groq_LLM-FF4F8B?style=flat-square&labelColor=black"/>
       </div>
       <br>
       <ul align="left">
-        <li>🏠 Smart home services marketplace</li>
-        <li>🤖 AI-powered service matching</li>
-        <li>📱 Seamless booking experience</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="20px"> <b>65%</b> reduction in analysis time</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20px"> <b>8</b> market segments visualized</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="20px"> <b>Natural language</b> market analysis</li>
       </ul>
-      <div>
-        <a href="https://maidease-thedixitjain.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF9900?style=flat&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/thedixitjain/maidease"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://agentflow-thedixitjain.vercel.app/">
-        <img src="https://img.shields.io/badge/🤖_AgentFlow-Agentic_AI_Workflow_Builder-5865F2?style=for-the-badge&labelColor=black" alt="AgentFlow"/>
-      </a>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="70px" alt="Agent"/>
-      <br><br>
-      <div>
-        <img src="https://img.shields.io/badge/Agentic_AI-5865F2?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/LangChain-1C8D73?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Orchestration-FF4F8B?style=flat-square&labelColor=black"/>
-      </div>
-      <br>
-      <ul align="left">
-        <li>🔄 Visual AI agent workflow builder</li>
-        <li>🧠 Multi-agent orchestration system</li>
-        <li>⚡ Tool-use & function calling</li>
-      </ul>
-      <div>
-        <a href="https://agentflow-thedixitjain.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-5865F2?style=flat&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/thedixitjain/AgentFlow"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
-      </div>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=black"/>
     </td>
   </tr>
 </table>
-
-<a href="https://www.thedixitjain.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_View_All_Projects_on_Portfolio-58A6FF?style=for-the-badge&logoColor=white"/>
-</a>
 </div>
 
+<!-- Animated bottom divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
+
+## 🔬 Current Research & Explorations
+
+<div align="center">
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/🚀_LLM_Reasoning_Augmentation-Enhancing_models_with_structured_reasoning_frameworks-5865F2?style=for-the-badge" alt="Reasoning"/></a>
+  </p>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/🧠_Multi--Modal_AI_Systems-Integrating_text,_vision_and_audio_understanding-FF9800?style=for-the-badge" alt="Multi-Modal"/></a>
+  </p>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/🔄_Autonomous_AI_Orchestration-Self--managing_AI_workflows_with_fallback_mechanisms-4CAF50?style=for-the-badge" alt="Orchestration"/></a>
+  </p>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/🔍_Enterprise_RAG_Architecture-Scalable_retrieval_systems_with_multi--vector_search-E91E63?style=for-the-badge" alt="RAG"/></a>
+  </p>
+</div>
 
 ## 🏆 Key Achievements
 
@@ -282,49 +200,141 @@
   <tr>
     <td width="25%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Performance" width="65" />
-      <h3>↑ 40%</h3>
-      <h4>LLM Inference Speed</h4>
-      <p>Model quantization, distillation, and KV cache optimizations</p>
+      <div style="background-color: #22c55e; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">↑ 40%</span>
+      </div>
+      <h3>LLM Inference Speed</h3>
+      <p>Advanced model quantization, distillation, and KV cache optimizations for faster LLM inference</p>
     </td>
     <td width="25%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" alt="Cost" width="65" />
-      <h3>↓ 60%</h3>
-      <h4>Token Processing Cost</h4>
-      <p>Efficient chunking and embedding compression techniques</p>
+      <div style="background-color: #3b82f6; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">↓ 60%</span>
+      </div>
+      <h3>Token Processing Cost</h3>
+      <p>Efficient chunking strategies and embedding compression techniques that significantly reduce API costs</p>
     </td>
     <td width="25%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Accuracy" width="65" />
-      <h3>↑ 95%</h3>
-      <h4>RAG System Accuracy</h4>
-      <p>Hybrid retrieval with multi-vector search and re-ranking</p>
+      <div style="background-color: #f97316; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">↑ 95%</span>
+      </div>
+      <h3>RAG System Accuracy</h3>
+      <p>Hybrid retrieval with multi-vector search and re-ranking pipelines that deliver near-perfect answer accuracy</p>
     </td>
     <td width="25%" align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Scale" width="65" />
-      <h3>↑ 10x</h3>
-      <h4>System Scalability</h4>
-      <p>Enterprise microservices handling 100K+ concurrent requests</p>
+      <div style="background-color: #d946ef; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">↑ 10x</span>
+      </div>
+      <h3>System Scalability</h3>
+      <p>Enterprise-grade microservices architecture handling 100K+ concurrent requests with minimal latency</p>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Impact
 
+<!-- Professional streak stats with GitHub-native colors -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedixitjain&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb15&custom_title=Development%20Activity&height=280&radius=8&days=90" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=thedixitjain&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
 </div>
 
----
+<br>
+
+<!-- Professional Development Activity Section -->
+<div align="center">
+  <h3>📈 Development Activity</h3>
+  
+  <!-- Enhanced activity graph with professional styling -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedixitjain&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb15&custom_title=Development%20Activity%20Timeline&height=300&radius=8&days=90" alt="Development Activity Graph"/>
+</div>
+
+<br>
+
+
+<!-- Professional metrics display -->
+<div align="center">
+  <h3>⚡ Development Metrics</h3>
+  
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total_Repositories-25+-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Languages_Used-8+-1f6feb?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Years_Coding-3+-f0883e?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0d1117"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI/ML_Projects-15+-da3633?style=for-the-badge&logo=robot&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Open_Source-Contributor-7c3aed?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Profile_Views-1000+-56d364?style=for-the-badge&logo=eye&logoColor=white&labelColor=0d1117"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Better focus areas display -->
+<div align="center">
+  <h3>🎯 Development Focus</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/🧠_AI/ML_Engineering-Primary_Focus-58a6ff?style=for-the-badge&logo=brain&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🤖_LLM_&_RAG_Systems-Core_Expertise-1f6feb?style=for-the-badge&logo=robot&logoColor=white&labelColor=0d1117"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/🌐_Full_Stack_Development-Secondary-f0883e?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🚀_Research_&_Innovation-Passion-da3633?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117"/>
+  </p>
+  
+</div>
+
+<br>
+
+<!-- Enhanced contribution summary -->
+<div align="center">
+  <h3>📝 Recent Activity Highlights</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/🔹_Active_in-AI/ML_repositories-58a6ff?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🔹_Contributing_to-Open_Source_projects-1f6feb?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🔹_Building-LLM_applications-f0883e?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🔹_Researching-GenAI_frameworks-da3633?style=flat-square&labelColor=0d1117"/>
+  </p>
+</div>
+
+<br>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <!-- Alternative trophy display -->
+  <img src="https://github-trophies.vercel.app/?username=thedixitjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
+</div>
+
+<br>
 
 <div align="center">
 
-### 💡 Open to collaborating on innovative AI projects that push the boundaries of what's possible.
-
-</div>
+### 💡 "Open to collaborating on innovative AI projects that push the boundaries of what's possible.
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" width="100%">
 </div>
 
-<div align="center">
-  <sub><sup>Last updated: January 2026</sup></sub>
+<br>
+  
+  <sub><sup>Last updated: June 2025</sup></sub>
 </div>
