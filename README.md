@@ -184,125 +184,41 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</p>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## 🎯 Featured Projects
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://wellnix.vercel.app/">
-        <img src="https://img.shields.io/badge/🏥_Wellnix-AI--powered_Health_&_Wellness-4CAF50?style=for-the-badge&labelColor=black" alt="Wellnix"/>
-      </a>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Lifting%20Weights.png" width="70px" alt="Health"/>
-      <br><br>
-      <div>
-        <img src="https://img.shields.io/badge/LLM-00FFFF?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Health_AI-4CAF50?style=flat-square&labelColor=black"/>
-      </div>
-      <br>
-      <ul align="left">
-        <li>🏥 AI-powered health & wellness platform</li>
-        <li>🧠 Personalized health recommendations</li>
-        <li>📊 Intelligent symptom analysis</li>
-      </ul>
-      <div>
-        <a href="https://wellnix.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=flat&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/thedixitjain/Wellnix"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://maidease-thedixitjain.vercel.app/">
-        <img src="https://img.shields.io/badge/🏠_MaidEase-Smart_Home_Services_Platform-FF9900?style=for-the-badge&labelColor=black" alt="MaidEase"/>
-      </a>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House%20with%20Garden.png" width="70px" alt="Home"/>
-      <br><br>
-      <div>
-        <img src="https://img.shields.io/badge/Full_Stack-FF9900?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Automation-4B32C3?style=flat-square&labelColor=black"/>
-      </div>
-      <br>
-      <ul align="left">
-        <li>🏠 Smart home services marketplace</li>
-        <li>🤖 AI-powered service matching</li>
-        <li>📱 Seamless booking experience</li>
-      </ul>
-      <div>
-        <a href="https://maidease-thedixitjain.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF9900?style=flat&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/thedixitjain/maidease"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://agentflow-thedixitjain.vercel.app/">
-        <img src="https://img.shields.io/badge/🤖_AgentFlow-Agentic_AI_Workflow_Builder-5865F2?style=for-the-badge&labelColor=black" alt="AgentFlow"/>
-      </a>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="70px" alt="Agent"/>
-      <br><br>
-      <div>
-        <img src="https://img.shields.io/badge/Agentic_AI-5865F2?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/LangChain-1C8D73?style=flat-square&labelColor=black"/>
-      </div>
-      <br>
-      <ul align="left">
-        <li>🔄 Visual AI agent workflow builder</li>
-        <li>🧠 Multi-agent orchestration system</li>
-        <li>⚡ Tool-use & function calling</li>
-      </ul>
-      <div>
-        <a href="https://agentflow-thedixitjain.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-5865F2?style=flat&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/thedixitjain/AgentFlow"><img src="https://img.shields.io/badge/Source-181717?style=flat&logo=github&logoColor=white"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
+
+| 🏥 **Wellnix** | 🏠 **MaidEase** | 🤖 **AgentFlow** |
+|:---:|:---:|:---:|
+| AI-powered Health & Wellness | Smart Home Services Platform | Agentic AI Workflow Builder |
+| [![Wellnix](https://img.shields.io/badge/LLM-58A6FF?style=flat-square)](https://wellnix.vercel.app/) [![RAG](https://img.shields.io/badge/RAG-7c3aed?style=flat-square)](https://wellnix.vercel.app/) [![Health](https://img.shields.io/badge/Health_AI-4CAF50?style=flat-square)](https://wellnix.vercel.app/) | [![Full Stack](https://img.shields.io/badge/Full_Stack-FF9900?style=flat-square)](https://maidease-thedixitjain.vercel.app/) [![AI](https://img.shields.io/badge/AI_Matching-7c3aed?style=flat-square)](https://maidease-thedixitjain.vercel.app/) | [![Agentic](https://img.shields.io/badge/Agentic_AI-5865F2?style=flat-square)](https://agentflow-thedixitjain.vercel.app/) [![LangChain](https://img.shields.io/badge/LangChain-1C8D73?style=flat-square)](https://agentflow-thedixitjain.vercel.app/) |
+| Personalized health recommendations with intelligent symptom analysis | Smart marketplace with AI-powered service matching & seamless booking | Visual workflow builder with multi-agent orchestration & tool-use |
+| [![Demo](https://img.shields.io/badge/▶_Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://wellnix.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedixitjain/Wellnix) | [![Demo](https://img.shields.io/badge/▶_Live_Demo-FF9900?style=for-the-badge&logo=vercel&logoColor=white)](https://maidease-thedixitjain.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedixitjain/maidease) | [![Demo](https://img.shields.io/badge/▶_Live_Demo-5865F2?style=for-the-badge&logo=vercel&logoColor=white)](https://agentflow-thedixitjain.vercel.app/) [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedixitjain/AgentFlow) |
+
+<br>
 
 <a href="https://www.thedixitjain.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_View_All_Projects_on_Portfolio-58A6FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Explore_All_Projects-58A6FF?style=for-the-badge&logoColor=white"/>
 </a>
+
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## 🏆 Key Achievements
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="5">
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Performance" width="65" />
-      <h3>↑ 40%</h3>
-      <h4>LLM Inference Speed</h4>
-      <p>Model quantization, distillation, and KV cache optimizations</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" alt="Cost" width="65" />
-      <h3>↓ 60%</h3>
-      <h4>Token Processing Cost</h4>
-      <p>Efficient chunking and embedding compression techniques</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Accuracy" width="65" />
-      <h3>↑ 95%</h3>
-      <h4>RAG System Accuracy</h4>
-      <p>Hybrid retrieval with multi-vector search and re-ranking</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Scale" width="65" />
-      <h3>↑ 10x</h3>
-      <h4>System Scalability</h4>
-      <p>Enterprise microservices handling 100K+ concurrent requests</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 📊 GitHub Analytics
+| ⚡ **40% Faster** | 💰 **60% Cheaper** | 🎯 **95% Accurate** | 🚀 **10x Scale** |
+|:---:|:---:|:---:|:---:|
+| **LLM Inference** | **Token Processing** | **RAG Systems** | **System Capacity** |
+| Model quantization, distillation & KV cache optimization | Efficient chunking & embedding compression | Hybrid retrieval with re-ranking pipelines | Enterprise microservices at 100K+ requests |
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/> 📊 GitHub Analytics
 
 <!-- Professional streak stats with GitHub-native colors -->
 <div align="center">
