@@ -236,10 +236,13 @@
 
 <!-- Professional streak stats with GitHub-native colors -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=thedixitjain&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=thedixitjain&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&sideLabels=c9d1d9" 
+    alt="GitHub Streak Stats"
+  />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedixitjain&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb15&custom_title=Development%20Activity&height=280&radius=8&days=90" alt="Activity Graph"/>
