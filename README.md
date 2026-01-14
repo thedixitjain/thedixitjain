@@ -237,8 +237,8 @@
 <!-- Professional streak stats with GitHub-native colors -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=thedixitjain&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=thedixitjain&theme=github-dark&hide_border=true"
+    alt="GitHub Streak Stats"
   />
 </div>
 
