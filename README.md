@@ -88,6 +88,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C8D73?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat&logo=llama&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-6E6DEF?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=flat&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-191919?style=flat&logo=anthropic&logoColor=white)
@@ -96,23 +97,16 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
-![LLaMA Models](https://img.shields.io/badge/LLaMA_Models-7B61FF?style=flat&logo=meta&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-7B61FF?style=flat&logo=meta&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-E37222?style=flat&logo=huggingface&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-7531FF?style=flat&logo=data&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-AC5EE3?style=flat&logo=meta&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat&logo=robot&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat&logo=robot&logoColor=white)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-5C2D91?style=flat&logo=python&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-58A6FF?style=flat&logo=openai&logoColor=white)
-![Model Fine-tuning](https://img.shields.io/badge/Fine--tuning_&_RLHF-FF6B6B?style=flat&logo=pytorch&logoColor=white)
-![AI Safety](https://img.shields.io/badge/AI_Safety_&_Alignment-4CAF50?style=flat&logo=shield&logoColor=white)
-![Multi-Modal AI](https://img.shields.io/badge/Multi--Modal_AI-FFA500?style=flat&logo=openai&logoColor=black)
 ![Modal](https://img.shields.io/badge/Modal-00D26A?style=flat&logo=modal&logoColor=white)
 ![Replicate](https://img.shields.io/badge/Replicate-000000?style=flat&logo=replicate&logoColor=white)
 
@@ -128,6 +122,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+
+**Data Engineering:**
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 
 ---
 
@@ -148,12 +148,15 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
-**Backend:**
+**Backend & APIs:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-2D9CDB?style=flat&logo=grpc&logoColor=white)
 
 **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -183,20 +186,18 @@
 ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
 
+**Observability:**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+
 **Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
----
-
-### 🔬 Currently Exploring
-
-![Real-time Embeddings](https://img.shields.io/badge/Real--time_Embedding_Pipelines-4E5EE4?style=flat&logo=processingfoundation&logoColor=white)
-![Self-hosted LLMs](https://img.shields.io/badge/Self--hosted_LLMs-7B68EE?style=flat&logo=ubuntu&logoColor=white)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-000000?style=flat&logo=openai&logoColor=white)
 
 ---
 
