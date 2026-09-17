@@ -1,14 +1,14 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=175&section=header&text=Dixit%20Jain&fontSize=66&fontAlignY=38&desc=AI%20Product%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Voice%20AI&descAlignY=63&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=180&section=header&text=Dixit%20Jain&fontSize=66&fontAlignY=38&desc=AI%20Product%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Voice%20AI&descAlignY=62&animation=fadeIn"
   width="100%"
-  alt="Dixit Jain - AI Product Engineer"
+  alt="Dixit Jain"
 />
 
 ### I turn business problems into AI products that work in production.
 
-`Agentic Systems` · `RAG` · `Document Intelligence` · `Voice AI` · `LLM Evals` · `MCP`
+`Agentic Systems` · `RAG` · `Document Intelligence` · `Voice AI` · `LLM Evals` · `Context Engineering`
 
 <br/>
 
@@ -25,30 +25,33 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=thedixitjain&label=Profile+Views&color=1f6feb&style=flat" alt="Profile views"/>
+
 </div>
 
 ---
 
 <table>
 <tr>
-
 <td width="33%" align="center">
 
-### Diagnose
+### Understand
 
 Business workflows  
-User pain points  
-Data & constraints
+User friction  
+Data constraints
 
 </td>
 
 <td width="33%" align="center">
 
-### Architect
+### Design
 
-Agents & retrieval  
-Models & tools  
-Reliability & evals
+Agents and retrieval  
+System architecture  
+Evaluation strategy
 
 </td>
 
@@ -56,39 +59,37 @@ Reliability & evals
 
 ### Ship
 
-APIs & products  
+AI products  
 Production systems  
-Measure & iterate
+Iteration and outcomes
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## Applied AI
+## Core expertise
 
-- **Agentic Systems** - orchestration, tool use, MCP, state/memory, structured outputs and human-in-the-loop
-- **Retrieval & Document AI** - hybrid search, reranking, citations, OCR/VLMs and structured extraction
-- **AI Reliability** - evaluation harnesses, guardrails, tracing, failure analysis, model routing and regression testing
-- **Voice & Multimodal AI** - real-time conversational systems, speech workflows, vision and multimodal pipelines
-- **Production AI** - latency/cost optimization, queues, observability, secure APIs and enterprise integrations
+- **Agentic AI** - orchestration, tool calling, MCP, memory, workflow design, human-in-the-loop systems
+- **RAG and Document Intelligence** - hybrid retrieval, reranking, citations, structured extraction, OCR, VLM pipelines
+- **Voice AI** - real-time assistants, knowledge-grounded conversations, booking, qualification and automation
+- **Reliable AI Systems** - eval harnesses, guardrails, observability, regression testing, latency and cost control
+- **AI Product Engineering** - APIs, backend, frontend, queues, databases, deployment and product iteration
 
 ---
 
-## Selected products
+## Selected work
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### Wellnix
+### Wellnix  
+<sub>Computer Vision and Wellness Intelligence</sub>
 
-**Computer Vision × Wellness Intelligence**
-
-Phone-video movement analysis with pose estimation, explainable form scoring and nutrition context.
+- Pose estimation with movement analysis from phone video
+- Explainable scoring, wellness context and user feedback loops
 
 `Computer Vision` `Pose Estimation` `Applied ML`
 
@@ -98,31 +99,29 @@ Phone-video movement analysis with pose estimation, explainable form scoring and
 
 <td width="50%" valign="top">
 
-### Brandry
+### Brandry  
+<sub>Generative Website Builder</sub>
 
-**Generative Website Builder**
-
-Turns one business description into a structured, editable and deployable website using staged generation and constrained design components.
+- Turns one business description into a structured website
+- Editable, exportable output with constrained generation flow
 
 `Generative AI` `Structured Generation` `SaaS`
 
 [Case Study](https://www.thedixitjain.com/projects/brandry) · [Live](https://www.brandry.space/)
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### Chatterbots.ai
+### Chatterbots.ai  
+<sub>Production Voice AI for Business</sub>
 
-**Production Voice AI**
+- Voice assistants grounded in business knowledge and workflows
+- Lead qualification, booking, payments and conversation analytics
 
-Multi-tenant voice assistants grounded in business knowledge, with lead qualification, booking, payments and conversation analytics.
-
-`Voice AI` `RAG` `Tool Use` `Multi-Tenant`
+`Voice AI` `RAG` `Automation`
 
 [Case Study](https://www.thedixitjain.com/projects/chatterbots) · [Live](https://voiceintel.vercel.app/)
 
@@ -130,26 +129,25 @@ Multi-tenant voice assistants grounded in business knowledge, with lead qualific
 
 <td width="50%" valign="top">
 
-### LawBot Africa
+### LawBot Africa  
+<sub>Jurisdiction-Grounded Legal AI</sub>
 
-**Jurisdiction-Grounded Legal AI**
+- Legal Q&A, contract generation and document review
+- Grounded retrieval across web, WhatsApp and API experiences
 
-Legal question answering, contract generation and document review grounded in jurisdiction-specific knowledge and available across web, WhatsApp and API.
-
-`Legal AI` `RAG` `Document Intelligence` `Multilingual`
+`Legal AI` `RAG` `Document AI`
 
 [Case Study](https://www.thedixitjain.com/projects/lawbot-africa) · [Live](https://www.lawbot.africa/)
 
 </td>
-
 </tr>
 </table>
 
 <div align="center">
 
-**More work:**  
-[MarqHire AI](https://www.thedixitjain.com/projects/marqhire) - semantic hiring + voice screening ·
-[AgentFlow](https://www.thedixitjain.com/projects/agentflow) - multi-agent document intelligence + verification
+**More work**  
+[MarqHire AI](https://www.thedixitjain.com/projects/marqhire) - semantic hiring workflows and voice screening  
+[AgentFlow](https://www.thedixitjain.com/projects/agentflow) - multi-agent document intelligence, verification and observability
 
 <br/>
 
@@ -161,10 +159,56 @@ Legal question answering, contract generation and document review grounded in ju
 
 ---
 
-## AI engineering stack
+## AI systems focus
 
-**Agents & Intelligence**
+<table>
+<tr>
+<td width="33%" valign="top">
 
+### Intelligence Layer
+
+- Agent routing
+- Tool use
+- Context engineering
+- Structured outputs
+- Prompt systems
+
+</td>
+
+<td width="33%" valign="top">
+
+### Retrieval Layer
+
+- Hybrid search
+- Reranking
+- Citations
+- Chunking strategy
+- Grounded responses
+
+</td>
+
+<td width="33%" valign="top">
+
+### Reliability Layer
+
+- LLM evals
+- Guardrails
+- Tracing
+- Failure analysis
+- Latency and cost
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C8D73?style=flat-square&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
@@ -172,35 +216,30 @@ Legal question answering, contract generation and document review grounded in ju
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
-**Retrieval, Evaluation & Systems**
-
-`Hybrid Retrieval` · `Reranking` · `pgvector` · `Qdrant` · `Structured Outputs` · `LLM Evals` · `Tracing` · `Guardrails`
-
-**Production**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</div>
 
 ---
 
 ## Open source
 
-- **[The Mega Skill Library](https://github.com/thedixitjain/the-mega-skill-library)** - searchable catalog across AI agent skills, subagents, commands, prompts and coding-agent ecosystems
-- **[OpenBrain](https://github.com/thedixitjain/Openbrain)** - self-hostable knowledge capture with OCR, enrichment, hybrid retrieval and pgvector
-- **[AgentFlow](https://github.com/thedixitjain/AgentFlow)** - multi-agent document intelligence with retrieval, verification, evals and observability
-- **[ZeroPing](https://github.com/thedixitjain/zeroping)** - private, local-first AI code review powered by Ollama
+- **[The Mega Skill Library](https://github.com/thedixitjain/the-mega-skill-library)** - searchable collection of agent skills, subagents, prompts, commands and rules
+- **[OpenBrain](https://github.com/thedixitjain/Openbrain)** - self-hosted knowledge capture with OCR, enrichment and hybrid retrieval
+- **[ZeroPing](https://github.com/thedixitjain/zeroping)** - local-first AI code review powered by Ollama
 
 ---
 
-## Exploring now
+## Currently exploring
 
-`Agent Evaluation` · `Context Engineering` · `MCP Ecosystems` · `Text-to-SQL Reliability` · `Multimodal/VLM Systems` · `AI Security & Observability`
+`Agent Evaluation` · `Long-Running Agents` · `Text-to-SQL Reliability` · `Multimodal AI` · `VLM Pipelines` · `AI Security` · `Observability`
 
 ---
 
