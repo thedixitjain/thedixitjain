@@ -6,7 +6,7 @@
   alt="Dixit Jain"
 />
 
-### I turn business problems into AI products that work in production.
+### Building AI products from real business problems to production.
 
 `Agentic Systems` · `RAG` · `Document Intelligence` · `Voice AI` · `LLM Evals` · `Context Engineering`
 
@@ -27,87 +27,71 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=thedixitjain&label=Profile+Views&color=1f6feb&style=flat" alt="Profile views"/>
+<sub>AI Product Engineering · Applied AI · Production Systems</sub>
 
 </div>
 
+<br/>
+
 ---
+
+## How I work
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### Understand
+### 01 · Understand
 
-Business workflows  
+Business workflow  
 User friction  
-Data constraints
+Data & constraints
 
 </td>
 
 <td width="33%" align="center">
 
-### Design
+### 02 · Architect
 
-Agents and retrieval  
-System architecture  
+AI system design  
+Retrieval & tools  
 Evaluation strategy
 
 </td>
 
 <td width="33%" align="center">
 
-### Ship
+### 03 · Ship
 
-AI products  
-Production systems  
-Iteration and outcomes
+Production product  
+Observability  
+Iteration & outcomes
 
 </td>
 </tr>
 </table>
 
----
-
-## Core expertise
-
-- **Agentic AI** - orchestration, tool calling, MCP, memory, workflow design, human-in-the-loop systems
-- **RAG and Document Intelligence** - hybrid retrieval, reranking, citations, structured extraction, OCR, VLM pipelines
-- **Voice AI** - real-time assistants, knowledge-grounded conversations, booking, qualification and automation
-- **Reliable AI Systems** - eval harnesses, guardrails, observability, regression testing, latency and cost control
-- **AI Product Engineering** - APIs, backend, frontend, queues, databases, deployment and product iteration
+<br/>
 
 ---
 
-## Selected work
+## Applied AI expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Wellnix  
-<sub>Computer Vision and Wellness Intelligence</sub>
+**Agentic Systems**
 
-- Pose estimation with movement analysis from phone video
-- Explainable scoring, wellness context and user feedback loops
-
-`Computer Vision` `Pose Estimation` `Applied ML`
-
-[Case Study](https://www.thedixitjain.com/projects/wellnix) · [Live](https://wellnix-ai.vercel.app/)
+Tool use · MCP · routing · memory · structured outputs · human review
 
 </td>
 
 <td width="50%" valign="top">
 
-### Brandry  
-<sub>Generative Website Builder</sub>
+**Retrieval & Document AI**
 
-- Turns one business description into a structured website
-- Editable, exportable output with constrained generation flow
-
-`Generative AI` `Structured Generation` `SaaS`
-
-[Case Study](https://www.thedixitjain.com/projects/brandry) · [Live](https://www.brandry.space/)
+Hybrid retrieval · reranking · citations · OCR · VLMs · structured extraction
 
 </td>
 </tr>
@@ -115,100 +99,191 @@ Iteration and outcomes
 <tr>
 <td width="50%" valign="top">
 
-### Chatterbots.ai  
-<sub>Production Voice AI for Business</sub>
+**Reliable AI**
 
-- Voice assistants grounded in business knowledge and workflows
-- Lead qualification, booking, payments and conversation analytics
-
-`Voice AI` `RAG` `Automation`
-
-[Case Study](https://www.thedixitjain.com/projects/chatterbots) · [Live](https://voiceintel.vercel.app/)
+Evals · guardrails · tracing · regression testing · failure analysis · model routing
 
 </td>
 
 <td width="50%" valign="top">
 
-### LawBot Africa  
-<sub>Jurisdiction-Grounded Legal AI</sub>
+**Voice & Multimodal AI**
 
-- Legal Q&A, contract generation and document review
-- Grounded retrieval across web, WhatsApp and API experiences
-
-`Legal AI` `RAG` `Document AI`
-
-[Case Study](https://www.thedixitjain.com/projects/lawbot-africa) · [Live](https://www.lawbot.africa/)
+Real-time assistants · speech workflows · vision pipelines · business automation
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+---
+
 <div align="center">
 
-**More work**  
-[MarqHire AI](https://www.thedixitjain.com/projects/marqhire) - semantic hiring workflows and voice screening  
-[AgentFlow](https://www.thedixitjain.com/projects/agentflow) - multi-agent document intelligence, verification and observability
+## Selected products
+
+<sub>AI systems designed around real workflows, users and business outcomes</sub>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Wellnix
+
+**Computer Vision × Wellness**
+
+Phone-video movement analysis with pose estimation and explainable form scoring.
+
+**Focus**  
+`Computer Vision` `Pose Estimation` `Applied ML`
+
+**Explore**  
+[Case Study](https://www.thedixitjain.com/projects/wellnix) · [Live Product](https://wellnix-ai.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Brandry
+
+**Generative Product Creation**
+
+Turns a business description into a structured, editable and deployable website.
+
+**Focus**  
+`Generative AI` `Structured Generation` `AI SaaS`
+
+**Explore**  
+[Case Study](https://www.thedixitjain.com/projects/brandry) · [Live Product](https://www.brandry.space/)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Chatterbots.ai
+
+**Production Voice AI**
+
+Knowledge-grounded voice assistants connected to qualification, bookings, payments and analytics.
+
+**Focus**  
+`Voice AI` `RAG` `Tool Use` `Multi-Tenant`
+
+**Explore**  
+[Case Study](https://www.thedixitjain.com/projects/chatterbots) · [Live Product](https://voiceintel.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### LawBot Africa
+
+**Jurisdiction-Grounded Legal AI**
+
+Legal Q&A, document review and contract generation grounded in jurisdiction-specific knowledge.
+
+**Focus**  
+`Legal AI` `RAG` `Document Intelligence`
+
+**Explore**  
+[Case Study](https://www.thedixitjain.com/projects/lawbot-africa) · [Live Product](https://www.lawbot.africa/)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+**Also built**
+
+[MarqHire AI](https://www.thedixitjain.com/projects/marqhire)  
+Semantic hiring workflows · candidate matching · AI voice screening
+
+[AgentFlow](https://www.thedixitjain.com/projects/agentflow)  
+Multi-agent document intelligence · verification · evals · observability
 
 <br/>
 
 <a href="https://www.thedixitjain.com/projects">
-  <img src="https://img.shields.io/badge/Explore_All_Projects-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Explore all projects"/>
+  <img
+    src="https://img.shields.io/badge/Explore_All_Projects-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Explore all projects"
+  />
 </a>
 
 </div>
 
+<br/>
+
 ---
 
-## AI systems focus
+## AI systems I care about
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-### Intelligence Layer
+**Intelligence**
 
-- Agent routing
-- Tool use
-- Context engineering
-- Structured outputs
-- Prompt systems
+Agent routing  
+Tool calling  
+Context engineering  
+Structured outputs  
+Model selection
 
 </td>
 
 <td width="33%" valign="top">
 
-### Retrieval Layer
+**Retrieval**
 
-- Hybrid search
-- Reranking
-- Citations
-- Chunking strategy
-- Grounded responses
+Hybrid search  
+Reranking  
+Grounding  
+Chunking strategy  
+Citation quality
 
 </td>
 
 <td width="33%" valign="top">
 
-### Reliability Layer
+**Reliability**
 
-- LLM evals
-- Guardrails
-- Tracing
-- Failure analysis
-- Latency and cost
+LLM evaluations  
+Tracing  
+Guardrails  
+Failure analysis  
+Latency & cost
 
 </td>
+
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## Stack
+## Core stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### AI
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C8D73?style=flat-square&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
@@ -216,36 +291,90 @@ Iteration and outcomes
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
+### Systems
+
+`Hybrid Retrieval` · `Reranking` · `pgvector` · `Qdrant` · `Structured Outputs` · `LLM Evals` · `Tracing`
+
+### Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 </div>
+
+<br/>
 
 ---
 
 ## Open source
 
-- **[The Mega Skill Library](https://github.com/thedixitjain/the-mega-skill-library)** - searchable collection of agent skills, subagents, prompts, commands and rules
-- **[OpenBrain](https://github.com/thedixitjain/Openbrain)** - self-hosted knowledge capture with OCR, enrichment and hybrid retrieval
-- **[ZeroPing](https://github.com/thedixitjain/zeroping)** - local-first AI code review powered by Ollama
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[The Mega Skill Library](https://github.com/thedixitjain/the-mega-skill-library)**  
+Searchable catalog across AI agent skills, subagents, commands and prompt ecosystems.
+
+</td>
+
+<td width="50%" valign="top">
+
+**[OpenBrain](https://github.com/thedixitjain/Openbrain)**  
+Self-hosted knowledge capture with OCR, enrichment, hybrid search and vector retrieval.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[AgentFlow](https://github.com/thedixitjain/AgentFlow)**  
+Multi-agent document intelligence with retrieval, verification, evals and telemetry.
+
+</td>
+
+<td width="50%" valign="top">
+
+**[ZeroPing](https://github.com/thedixitjain/zeroping)**  
+Private local-first AI code review powered by Ollama.
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## Currently exploring
+## Exploring now
 
-`Agent Evaluation` · `Long-Running Agents` · `Text-to-SQL Reliability` · `Multimodal AI` · `VLM Pipelines` · `AI Security` · `Observability`
+<div align="center">
+
+`Agent Evaluation` · `Context Engineering` · `MCP Ecosystems` · `Text-to-SQL Reliability`
+
+`Multimodal / VLM Systems` · `AI Security` · `Agent Observability`
+
+</div>
+
+<br/>
 
 ---
 
 ## Credentials
 
+<div align="center">
+
 **Microsoft DP-100** · **DeepLearning.AI - Deep Learning Specialization** · **Harvard CS50**
+
+</div>
+
+<br/>
 
 ---
 
@@ -253,9 +382,11 @@ Iteration and outcomes
 
 ### Good AI starts with the problem, not the model.
 
-Building with teams working on production AI, intelligent workflows, developer tools and high-impact products.
+<sub>
+Interested in production AI, intelligent workflows, developer tools and products where reliability matters.
+</sub>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.thedixitjain.com/">
   <img src="https://img.shields.io/badge/thedixitjain.com-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
@@ -266,6 +397,13 @@ Building with teams working on production AI, intelligent workflows, developer t
 <a href="https://calendly.com/thedixitjain">
   <img src="https://img.shields.io/badge/Let's_Talk-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule a call"/>
 </a>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=thedixitjain&label=Profile+Views&color=1f6feb&style=flat"
+  alt="Profile views"
+/>
 
 <br/><br/>
 
