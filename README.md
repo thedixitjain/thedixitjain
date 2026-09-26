@@ -128,8 +128,7 @@ Because getting an LLM to answer once is easy. Getting the system to behave reli
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedixitjain&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb15&custom_title=Development%20Activity&height=280&radius=8&days=90" alt="Development Activity"/>
-
+<img src="https://raw.githubusercontent.com/thedixitjain/thedixitjain/output/activity-graph.svg" width="96%" alt="Development Activity"/>
 </div>
 
 ---
